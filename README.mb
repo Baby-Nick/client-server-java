@@ -1,0 +1,11 @@
+# client server example (java)
+It's a simple example of client -server application via java based on sockets.
+
+
+# usage
+
+Clone this project and open it in Intellij Idea.
+
+In client module you need to edit line n12 and put your local IP address(or IP address of pc with running server).
+
+Run server and client and you will see 3 messages from a client side in server terminal.
